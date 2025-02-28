@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="64eda545-f1bd-4976-ba2e-57cb7971abb0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="JUnit3 Test Class" />
+        <option value="Class" />
+        <option value="AnnotationType" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2tA0TET4brVKVqtdx3cXFtqnmWO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "JUnit.EnvResolverImplTest.testResolveValueNormalString.executor": "Run",
+    "JUnit.EnvResolverImplTest.testResolveValue_emptyPropertyValue.executor": "Run",
+    "JUnit.EnvResolverImplTest.testResolveValue_invalidEnvironmentVariable.executor": "Run",
+    "JUnit.EnvResolverImplTest.testResolveValue_invalidType.executor": "Run",
+    "JUnit.EnvResolverImplTest.testResolveValue_normalString.executor": "Run",
+    "JUnit.EnvResolverImplTest.testResolveValue_validBoolean.executor": "Run",
+    "JUnit.EnvResolverImplTest.testResolveValue_validEnvironmentVariable.executor": "Run",
+    "JUnit.EnvResolverImplTest.testResolveValue_validInt.executor": "Run",
+    "JUnit.EnvResolverTest.executor": "Run",
+    "JUnit.EnvResolverTest.testResolveValueEmptyPropertyValue.executor": "Run",
+    "JUnit.EnvResolverTest.testResolveValueInvalidEnvironmentVariable.executor": "Run",
+    "JUnit.EnvResolverTest.testResolveValueInvalidType.executor": "Run",
+    "JUnit.EnvResolverTest.testResolveValueNormalString.executor": "Debug",
+    "JUnit.EnvResolverTest.testResolveValueValidEnvironmentVariable.executor": "Debug",
+    "JUnit.EnvResolverTest.testResolveValue_invalidEnvironmentVariable.executor": "Debug",
+    "JUnit.YamlConfigBinderTest.executor": "Run",
+    "JUnit.YamlConfigBinderTest.testCreateConfigInstanceSuccess.executor": "Run",
+    "JUnit.YamlConfigBinderTest.testCreateConfigInstance_success.executor": "Run",
+    "JUnit.YamlConfigBinderTest.testGetNestedPropertyValue.executor": "Run",
+    "JUnit.YamlConfigBinderTest.testSetNestedConfigFields.executor": "Debug",
+    "JUnit.YamlConfigBinderTest.testSetProperties.executor": "Debug",
+    "JUnit.YamlConfigBinderTest.testSetPropertiesSimpleProperty.executor": "Debug",
+    "JUnit.YamlConfigBinderTest.testSetProperties_nestedProperty.executor": "Run",
+    "JUnit.YamlConfigBinderTest.testSetProperties_simpleProperty.executor": "Run",
+    "JUnit.YamlConfigBinderTest.testSetProperties_withInvalidFieldType.executor": "Run",
+    "JUnit.YamlConfigLoaderTest.executor": "Run",
+    "JUnit.YamlConfigLoaderTest.testLoadDefaultConfigFileExists.executor": "Run",
+    "JUnit.YamlConfigLoaderTest.testLoadDefaultConfigFileNotFound.executor": "Run",
+    "JUnit.YamlConfigLoaderTest.testLoadDefaultConfig_fileExists.executor": "Run",
+    "JUnit.YamlConfigLoaderTest.testLoadDefaultConfig_fileNotFound.executor": "Run",
+    "JUnit.YamlConfigLoaderTest.testLoadProfiledConfigFileExists.executor": "Run",
+    "JUnit.YamlConfigLoaderTest.testLoadProfiledConfigFileNotFound.executor": "Run",
+    "JUnit.YamlConfigLoaderTest.testLoadProfiledConfig_fileExists.executor": "Run",
+    "JUnit.YamlConfigLoaderTest.testLoadProfiledConfig_fileNotFound.executor": "Run",
+    "JUnit.YamlConfigMergerTest.testMergeConfig_simpleMerge.executor": "Run",
+    "JUnit.YamlConfigMergerTest.testMergeConfig_withNestedMaps.executor": "Run",
+    "JUnit.YamlConfigReaderTest.executor": "Run",
+    "JUnit.YamlConfigReaderTest.readDefaultConfigTest.executor": "Run",
+    "JUnit.YamlConfigReaderTest.testReadConfigEmptyProfile.executor": "Run",
+    "JUnit.YamlConfigReaderTest.testReadConfigWithIOException.executor": "Run",
+    "JUnit.YamlConfigReaderTest.testReadConfigWithProfile.executor": "Run",
+    "JUnit.YamlConfigReaderTest.testReadConfig_noProfile.executor": "Run",
+    "JUnit.YamlConfigReaderTest.testReadConfig_withIOException.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.yaml-configuration-parser [clean,install].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit3",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/User/IdeaProjects/yaml-configuration-parser",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.example.implementation" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.example.implementation" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.EnvResolverTest.testResolveValueValidEnvironmentVariable">
+    <configuration name="EnvResolverTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yaml-configuration-parser" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.implementation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.implementation" />
+      <option name="MAIN_CLASS_NAME" value="org.example.implementation.EnvResolverTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnvResolverTest.testResolveValueValidEnvironmentVariable" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yaml-configuration-parser" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.implementation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.implementation" />
+      <option name="MAIN_CLASS_NAME" value="org.example.implementation.EnvResolverTest" />
+      <option name="METHOD_NAME" value="testResolveValueValidEnvironmentVariable" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YamlConfigLoaderTest.testLoadDefaultConfigFileNotFound" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yaml-configuration-parser" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.implementation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.implementation" />
+      <option name="MAIN_CLASS_NAME" value="org.example.implementation.YamlConfigLoaderTest" />
+      <option name="METHOD_NAME" value="testLoadDefaultConfigFileNotFound" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YamlConfigLoaderTest.testLoadProfiledConfigFileNotFound" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yaml-configuration-parser" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.implementation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.implementation" />
+      <option name="MAIN_CLASS_NAME" value="org.example.implementation.YamlConfigLoaderTest" />
+      <option name="METHOD_NAME" value="testLoadProfiledConfigFileNotFound" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YamlConfigReaderTest.testReadConfigWithProfile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yaml-configuration-parser" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.implementation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.implementation" />
+      <option name="MAIN_CLASS_NAME" value="org.example.implementation.YamlConfigReaderTest" />
+      <option name="METHOD_NAME" value="testReadConfigWithProfile" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EnvResolverTest.testResolveValueValidEnvironmentVariable" />
+        <item itemvalue="JUnit.EnvResolverTest" />
+        <item itemvalue="JUnit.YamlConfigReaderTest.testReadConfigWithProfile" />
+        <item itemvalue="JUnit.YamlConfigLoaderTest.testLoadDefaultConfigFileNotFound" />
+        <item itemvalue="JUnit.YamlConfigLoaderTest.testLoadProfiledConfigFileNotFound" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64eda545-f1bd-4976-ba2e-57cb7971abb0" name="Changes" comment="" />
+      <created>1739544780270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739544780270</updated>
+      <workItem from="1739544781377" duration="8190000" />
+      <workItem from="1739779578746" duration="24000" />
+      <workItem from="1739779610964" duration="45000" />
+      <workItem from="1739779664328" duration="128000" />
+      <workItem from="1739779804827" duration="22447000" />
+      <workItem from="1740499189757" duration="8096000" />
+      <workItem from="1740556653328" duration="95000" />
+      <workItem from="1740565066664" duration="5365000" />
+      <workItem from="1740574669907" duration="6719000" />
+      <workItem from="1740661679099" duration="3840000" />
+      <workItem from="1740730594088" duration="3599000" />
+      <workItem from="1740748645977" duration="441000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/example/implementation/EnvResolverTest.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.lang.reflect.Field" memberName="clazz" />
+        <PinnedItemInfo parentTag="org.junit.platform.launcher.core.DefaultDiscoveryRequest" memberName="discoveryListener" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
