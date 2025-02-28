@@ -1,0 +1,10 @@
+app:
+  name: yaml-configuration-parser
+  port: 8080
+  active: true
+  profile: dev
+
+nested:
+  config:
+    field1: NestedField1
+    field2: 100
